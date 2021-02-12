@@ -1,4 +1,4 @@
-<h1 align="center">  WH Anubis2.5 Builder</h1> 
+<h1 align="center">  WH Anubis 7.0 </h1> 
 
 <br>
 </p>
