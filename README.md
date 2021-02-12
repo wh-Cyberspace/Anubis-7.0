@@ -1,5 +1,10 @@
 <h1 align="center">  WH Anubis 7.0 </h1> 
 
+
+<p align="center">
+<img src="https://i.imgur.com/SJ2vhZA.png" height="170"><br>
+
+
 <br>
 </p>
 
