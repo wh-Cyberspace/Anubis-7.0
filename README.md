@@ -18,7 +18,7 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual c
 
 
 # Youtube Video
-
+Anubis 7.0 Demo WEB VIEW  [Here ]( https://www.whcyberspace.com/demo/anubis7/anubis%207.0/login.php "WEB VIEW ")
 
 Anubis 7.0 Demo video  [Here ]( https://www.youtube.com/watch?v=XyDMvnyzWqI "Demo Video")
 
