@@ -18,9 +18,9 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual c
 
 
 # Youtube Video
-Anubis 7.0 Demo WEB VIEW  [Here ]( https://www.whcyberspace.com/demo/anubis7/anubis%207.0/login.php "WEB VIEW ")
 
-Anubis 7.0 Demo video  [Here ]( https://www.youtube.com/watch?v=XyDMvnyzWqI "Demo Video")
+
+Anubis 7.0 Demo video  [Here ]( https://drive.google.com/file/d/1C_ccTIydfIbIp9_nFG0mpq11lCo2VNe7/preview "Demo Video")
 
 # ABOUT
 Anubis 7.0 Android Banking BotNet is a Advance builder ,modernized and updated. Apk (build) + admin file (in two languages with the ability to replace ENG \ TR).
