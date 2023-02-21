@@ -25,7 +25,7 @@ Anubis 7.0 Demo video  [Here ]( https://drive.google.com/file/d/1C_ccTIydfIbIp9_
 # ABOUT
 Anubis 7.0 Android Banking BotNet is a Advance builder ,modernized and updated. Apk (build) + admin file (in two languages with the ability to replace ENG \ TR).
 
-Works on android versions 5 - 10.
+Works on android versions 5 - 12
 
 Function:
 
